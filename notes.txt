@@ -1,0 +1,18 @@
+brainsurfacescripts in path
+nilearn patch in path -> comment out return fig
+pandas
+numpy
+seaborn
+
+
+
+mayavi?
+nibabel
+
+
+
+nitime?
+
+
+write doc for plotting
+adapt to use elev/rot?
