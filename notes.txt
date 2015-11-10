@@ -1,7 +1,0 @@
-brainsurfacescripts in path
-pandas
-numpy
-seaborn
-
-mayavi?
-nibabel
