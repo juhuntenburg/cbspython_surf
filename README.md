@@ -22,9 +22,17 @@ from plotting import plot_surf_stat_map
   
   
 #####Option B -- On your personal computer
-* Make a virtual environment (virtualenv / anaconda) and install the following packages:
-
-
+* Make a python 2.7 virtual environment (virtualenv / anaconda) and install the following packages:
+```
+ipython==4.0.0
+matplotlib==1.5.0
+nibabel==2.0.1
+notebook==4.0.6 (you might need to install functools32 as well)
+numpy==1.9.1
+scikit-learn==0.17
+scipy==0.16.1
+seaborn==0.6.0 (will also install pandas 0.17.0)
+```
 
 * Clone the following github repos and include them in your PYTHONPATH:
   * https://github.com/juhuntenburg/brainsurfacescripts.git
