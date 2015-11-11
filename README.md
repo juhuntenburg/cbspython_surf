@@ -10,7 +10,6 @@ export PYTHONPATH=/scr/ilz1/cbspython_surf/brainsurfacescripts:/scr/ilz1/cbspyth
 ```
 ```
 python
-import seaborn
 from nilearn import plotting
 from vtk_rw import read_vtk, write_vtk
 from plotting import plot_surf_stat_map
