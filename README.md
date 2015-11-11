@@ -10,10 +10,12 @@ export PYTHONPATH=/scr/ilz1/cbspython_surf/brainsurfacescripts:/scr/ilz1/cbspyth
 ```
 ```
 python
-import seaborn
-from nilearn import plotting
-from vtk_rw import read_vtk, write_vtk
-from plotting import plot_surf_stat_map
+>>> from nilearn import plotting
+>>> from vtk_rw import read_vtk, write_vtk
+>>> from plotting import plot_surf_stat_map
+>>> import numpy
+>>> numpy.__version__
+'1.9.1'
 ```
 
 * Clone this repo to get the notebooks or download them from [dropbox](https://www.dropbox.com/sh/kzz8k70ih8s1ha3/AADTzWJzrubA3n4kwpt4oqbIa?dl=0) (no need to download the data)
