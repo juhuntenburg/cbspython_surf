@@ -1,6 +1,8 @@
-For the freesurfer.ipynb notebook you need to be in the MPI CBS network. All installations and data are available there.
+Here you can find the interactive notebooks we used for the cbspython surface data session. 
 
-For the freesurfer_free.ipynb and more_interesting_applications.ipynb we need some special setup, there are two options:
+* For freesurfer.ipynb notebook you need to be in the MPI CBS network. All installations and data are available there.
+
+* For the freesurfer_free.ipynb and more_interesting_applications.ipynb we need some special setup, there are two options:
 
 #####Option A -- Inside the MPI CBS network
 * Bring a laptop with remote access to your workstation
